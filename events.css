@@ -1,0 +1,29 @@
+.colorBlue {
+    color: blue;
+}
+
+.big {
+    font-size: 4em;
+}
+
+.cage {
+    border: 2px solid black;
+}
+
+.round {
+    border: 2px solid black;
+    border-radius: 40% 40% 40% 40%;
+}
+
+article :first-child {
+    font-weight: bold;
+}
+
+article :last-child {
+    font-weight: bold;
+    font-style: italic;
+}
+
+button {
+    display: block;
+}
